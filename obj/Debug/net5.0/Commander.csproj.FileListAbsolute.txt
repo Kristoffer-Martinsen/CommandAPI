@@ -38,3 +38,7 @@
 /home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
 /home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/AutoMapper.dll
 /home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/kristoffer/dev/csharp/Commander/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
